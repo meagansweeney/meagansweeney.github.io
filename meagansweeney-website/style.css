@@ -10,10 +10,12 @@ body {
   font-family: sans-serif;
 }
 
+/* Header */
 header {
   text-align: center;
 }
 
+/* Navigation */
 nav {
   text-align: center;
   background-color: #eee;
@@ -29,6 +31,7 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/* Main content */
 section {
   padding: 0 20px;
 }
@@ -37,6 +40,7 @@ p {
   font-size: 18px;
 }
 
+/* Footer */
 footer {
   margin-top: 50px;
   border-top: 1px solid;
