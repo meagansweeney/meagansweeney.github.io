@@ -1,5 +1,5 @@
 html {
-  background-color: blue;
+  background-color: #eee;
 }
 
 body {
@@ -15,27 +15,29 @@ nav {
 }
 
 nav a {
-    text-decoration: none;
-    padding: 5px;
+  text-decoration: none;
+  padding: 5px;
 }
 
 nav a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 footer {
   margin-top: 50px;
+  border-top: 1px solid;
+  padding-top: 10px;
 }
 
 /* Table styles */
 th {
-    background-color: blue;
-    color: white;
+  background-color: blue;
+  color: white;
 }
 
 td, th {
-    border: 1px solid;
-    padding: 5px;
+  border: 1px solid;
+  padding: 5px;
 }
 
 img.flag {
