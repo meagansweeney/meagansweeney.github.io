@@ -21,3 +21,14 @@ footer {
 img.flag {
   height: 50px;
 }
+
+/* Table styles */
+th {
+    background-color: blue;
+    color: white;
+}
+
+td, th {
+    border: 1px solid;
+    padding: 5px;
+}
