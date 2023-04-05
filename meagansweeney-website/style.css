@@ -15,19 +15,19 @@ header {
   text-align: center;
 }
 
-/* Navigation */
-nav {
+/* Main Navigation */
+#main-nav {
   text-align: center;
   background-color: #eee;
   padding: 10px;
 }
 
-nav a {
+#main-nav a {
   text-decoration: none;
   padding: 5px;
 }
 
-nav a:hover {
+#main-nav a:hover {
   text-decoration: underline;
 }
 
