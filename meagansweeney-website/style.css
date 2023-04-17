@@ -19,6 +19,7 @@ header {
 
 header div,
 header h1 {
+  font-family: 'Patrick Hand SC', cursive;
   font-size: 32px;
   font-weight: bold;
 }
