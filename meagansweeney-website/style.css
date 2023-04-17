@@ -24,7 +24,7 @@ header h1 {
 }
 
 header h1,
-header span {
+header div {
   margin: 20px 0;
 }
 
