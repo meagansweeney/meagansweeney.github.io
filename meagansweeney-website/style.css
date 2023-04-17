@@ -17,6 +17,11 @@ header {
   text-align: center;
 }
 
+header span,
+header h1 {
+  font-size: 32px;
+}
+
 /* Main Navigation */
 #main-nav {
   text-align: center;
